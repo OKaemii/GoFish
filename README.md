@@ -1,2 +1,2 @@
 # GoFish
-go fish card gam java implementation
+go fish card game java implementation
